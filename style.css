@@ -1,0 +1,62 @@
+.navbar {
+  width: fit-content;
+  padding-inline: 50px;
+  position: sticky;
+  top: 0px;
+}
+
+.my-nav {
+  padding-left: 500px;
+  color: black;
+}
+
+
+.hero_section{
+    width:80%;
+    margin:auto;
+    background-color:#ffffff;
+    
+    
+}
+.div_1{
+ width:711px;
+ height:308px;
+
+ 
+    
+}
+.div1_child{
+     width:50%;
+    font-size:18px;
+    font-weight:400px;
+    color:#595959;
+    
+   
+}
+.mycard{
+    border-radius:15px !important;
+}
+.made{
+    width:261px;
+    border:1px solid lightgray;
+    font-size:10px;
+    padding:10px 20px 10px 20px;
+    gap:10px;
+    text-align:center;
+}
+.Courses{
+    background-color: #ECF8FF;
+}
+.title{
+    height:fit-content;
+   margin-top:100px;
+   margin-top:100px;
+
+}
+.title h3{
+    
+        color:#606BEE
+}
+.title img{
+    background-color: #ECF8FF;
+}
